@@ -1,0 +1,39 @@
+[submodule "Heap"]
+	path = Heap
+	url = git@github.com:calvinvuong/Heap
+[submodule "ArrayList"]
+	path = ArrayList
+	url = git@github.com:calvinvuong/ArrayList
+[submodule "Priority-queue"]
+	path = Priority-queue
+	url = git@github.com:calvinvuong/Priority-queue
+[submodule "Sorts"]
+	path = Sorts
+	url = git@github.com:calvinvuong/Sorts
+[submodule "Monopoly-final-project"]
+	path = Monopoly-final-project
+	url = git@github.com:calvinvuong/Monopoly-final-project
+[submodule "Stacks"]
+	path = Stacks
+	url = git@github.com:calvinvuong/Stacks
+[submodule "linked_lists"]
+	path = linked_lists
+	url = git@github.com:calvinvuong/linked_lists
+[submodule "Double-Linked-List"]
+	path = Double-Linked-List
+	url = git@github.com:calvinvuong/Double-Linked-List
+[submodule "Mergesort"]
+	path = Mergesort
+	url = git@github.com:calvinvuong/Mergesort
+[submodule "Matrix"]
+	path = Matrix
+	url = git@github.com:calvinvuong/Matrix
+[submodule "Comparable-Objects"]
+	path = Comparable-Objects
+	url = git@github.com:calvinvuong/Comparable-Objects
+[submodule "Rational_MRE"]
+	path = Rational_MRE
+	url = git@github.com:calvinvuong/Rational_MRE
+[submodule "RPG-Game"]
+	path = RPG-Game
+	url = git@github.com:calvinvuong/RPG-Game
